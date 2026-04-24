@@ -1,4 +1,4 @@
-# 🏥 AI-Powered CRM — HCP Interaction Module
+#  AI-Powered CRM — HCP Interaction Module
 
 > A pharmaceutical field rep tool to log and manage doctor interactions using AI — built with React, FastAPI, LangGraph, and Groq.
 
@@ -13,7 +13,7 @@ Pharmaceutical field representatives visit doctors (Healthcare Professionals) da
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 React Frontend (localhost:3000)
@@ -40,7 +40,7 @@ Groq LLM                PostgreSQL Database
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -86,7 +86,7 @@ ai-crm-hcp/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js v18+
