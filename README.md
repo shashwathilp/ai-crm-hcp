@@ -174,33 +174,3 @@ Frontend runs at **http://localhost:3000**
 "Summarize interaction number 1"
 "Edit interaction 2, update next steps to send sample pack"
 ```
-
----
-
-## 🖥️ Screenshots
-
-### Log Interaction Form
-> Structured form for field reps to manually log doctor visits
-
-### AI Chat Interface  
-> Natural language interface powered by LangGraph + Groq
-
-### Interaction History
-> View all past logged interactions in card format
-
----
-
-## 🎥 Demo Video
-[Link to walkthrough video — coming soon]
-
----
-
-## 👤 Author
-
-**Shashwath**
-Built as part of a technical assessment for a Life Sciences Supply Chain platform.
-
----
-
-## 📄 License
-MIT
